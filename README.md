@@ -66,4 +66,14 @@ npm start
 ```
 ___
 
+## 4. Testando
+Para testar basta rodar o seguinte na pasta root do projeto:
+```bash
+cd games-frontend/src
+node apiTest.js
+```
+
+O resultado deve ser 4.47
+___
+
 O que você pode fazer nesse projeto do jeito que ele está é salvar os jogos que aparecem com dados da API da RAWG. Ao salvar ele armazena essa informação no banco de dados para saber se aquele jogo já está salvo ou não!
