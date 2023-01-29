@@ -64,3 +64,6 @@ Com todas as dependências instaladas, rode:
 ```bash
 npm start
 ```
+___
+
+O que você pode fazer nesse projeto do jeito que ele está é salvar os jogos que aparecem com dados da API da RAWG. Ao salvar ele armazena essa informação no banco de dados para saber se aquele jogo já está salvo ou não!
